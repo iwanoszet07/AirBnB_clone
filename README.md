@@ -1,8 +1,8 @@
 # AirBnB_clone
 
-![simple shell_logo](https://github.com/iwanoszet07/iwanoszet07/blob/main/iCool.PNG)
+![simple shell_logo](https://github.com/iwanoszet07/iwanoszet07/blob/main/iCool.png)
 
-## General
+## General Objectives
     * How to create a Python package
     * How to create a command interpreter in Python using the cmd module
     * What is Unit testing and how to implement it in a large project
